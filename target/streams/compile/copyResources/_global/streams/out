@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/MGD05/aws/students/conf/logback.xml,/Users/MGD05/aws/students/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/MGD05/aws/students/conf/messages,/Users/MGD05/aws/students/target/scala-2.13/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/MGD05/aws/students/conf/application.conf,/Users/MGD05/aws/students/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/MGD05/aws/students/conf/routes,/Users/MGD05/aws/students/target/scala-2.13/classes/routes)[0m
