@@ -5,7 +5,6 @@
  * To learn more about Gradle by exploring our Samples at https://docs.gradle.org/8.5/samples
  */
 
-task run {
+task name {
     println 'martin'
-    sbt clean run 
 }
